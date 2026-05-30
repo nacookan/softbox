@@ -4,6 +4,14 @@ A macOS app that shows a bright white window to light up your face on video call
 
 Click the light area to reveal the controls.
 
+## Screenshot
+
+![Softbox screenshot](docs/screen1.png)
+
+## Download
+
+Download the latest version from the [Releases page](../../releases/latest).
+
 ## Features
 
 - Brightness and color temperature sliders (2700 K – 6500 K)
